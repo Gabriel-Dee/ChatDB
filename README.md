@@ -9,6 +9,7 @@ Before starting, make sure to have the following installed:
 
 - Python 3.9 or later
 - MySQL or any database of choice
+- Langchain
 
 ## Features:
 - Seamless integration with MySQL and any database of choice.
